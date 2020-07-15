@@ -15,6 +15,7 @@ git lfs install
 # clone the directory
 git clone https://github.com/Wittelab/pancancer_pleiotropy.git
 cd pancancer_pleiotropy
+
 # fetch the files
 git lfs fetch
 ```
