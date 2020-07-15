@@ -5,6 +5,20 @@ This README file accompanies the following 17 files that contain GWAS summary st
 
 Rashkin et al., *Pan-Cancer Study Detects Novel Genetic Risk Variants and Shared Genetic Basis in Two Large Cohorts*, bioRxiv 2019
 
+The files are stored with Git Large File Storage (LFS). To download the files:
+```
+# if extension not already installed do the following
+# install git-lfs
+brew install git-lfs
+git lfs install
+
+# clone the directory
+git clone https://github.com/Wittelab/pancancer_pleiotropy.git
+cd pancancer_pleiotropy
+# fetch the files
+git lfs fetch
+```
+
 Columns for each of the files listed above are as follows:
 | Column Name | Description |
 | --- | ---------- |
