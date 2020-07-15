@@ -5,7 +5,7 @@ This README file accompanies the following 17 files that contain GWAS summary st
 
 Rashkin et al., *Pan-Cancer Study Detects Novel Genetic Risk Variants and Shared Genetic Basis in Two Large Cohorts*, bioRxiv 2019
 
-Columns for each of the files listed above are as follows
+Columns for each of the files listed above are as follows:
 | Column Name | Description |
 | --- | ---------- |
 | CHR | chromosome |
