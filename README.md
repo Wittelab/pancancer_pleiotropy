@@ -5,6 +5,8 @@ This README file accompanies the following 17 files that contain GWAS summary st
 
 Rashkin et al., *Pan-Cancer Study Detects Novel Genetic Risk Variants and Shared Genetic Basis in Two Large Cohorts*, bioRxiv 2019
 
+Files are stored with Git Large File Storage (Git-LFS).
+
 Columns for each of the files listed above are as follows:
 | Column Name | Description |
 | --- | ---------- |
